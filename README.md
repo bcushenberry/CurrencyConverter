@@ -4,10 +4,9 @@ This project was meant to be a practice in Javascript. Originally, I'd wanted to
 
 The project in question is a relatively simple one: use an API to create a currency converter. The reason I chose this is that I occasionally need to use currency converters both for my job and for when I travel.
 
+Below is a video showcase of the app in action and a walkthrough of the code.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Currency Converter App Showcase](https://youtu.be/gE2a-_9zy90)
 
 # Development Environment
 
