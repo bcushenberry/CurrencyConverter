@@ -1,0 +1,43 @@
+html {
+    background-color: #131516;
+    color: #d8d4cf;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+/* Create the container for the converter */
+.converter-container {
+    width: 400px;
+    height: 400px;
+    border: 1px solid #fff;
+    margin-top: 15vh;
+}
+
+/* Create the visuals for the entry forms */
+.base-input, .target-input {
+    border: 1px solid #fff;
+    border-radius: .3em;
+    padding: .25rem;
+    width: 7em;
+    margin: .5rem;
+    background-color: #131516;
+    color: #fff;
+}
+
+/* Add labels for each entry field */
+.convert-from::before {
+    content: "Base Currency:";
+    padding: 5px;
+    text-align: left;
+}
+
+.convert-to::before {
+    content: "Target Currency:";
+    text-align: right;
+}
+
+.base-currency-select, .target-currency-select {
+    margin-left: .5rem;
+}
+
